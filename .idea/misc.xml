@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/bg_button.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/bg_button_disabled.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_bookmark_selector.xml" value="0.73125" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_bookmark_white.xml" value="0.240625" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_broken_image_black.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_circle_black.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_error.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_loading.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_refresh_black.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/drawable/ic_share_blue.xml" value="0.21666666666666667" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout-sw600dp/activity_course_reader.xml" value="0.168359375" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/activity_course_reader.xml" value="0.1933876811594203" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/activity_detail_course.xml" value="0.10916919959473151" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/activity_home.xml" value="0.14" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/content_detail_course.xml" value="0.25" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/fragment_academy.xml" value="0.18931159420289856" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/fragment_bookmark.xml" value="0.10989583333333333" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/fragment_module_content.xml" value="0.21" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/fragment_module_list.xml" value="0.25" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/items_academy.xml" value="0.25" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/items_bookmark.xml" value="0.18931159420289856" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/items_module_list.xml" value="0.18931159420289856" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/layout/items_module_list_custom.xml" value="0.1852355072463768" />
+        <entry key="..\:/RHA/Belajar/dicoding/BAJP/HaekalAcademy/app/src/main/res/menu/menu_detail.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
